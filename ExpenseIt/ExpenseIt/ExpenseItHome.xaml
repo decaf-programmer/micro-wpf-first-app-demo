@@ -6,11 +6,11 @@
       xmlns:local="clr-namespace:ExpenseIt"
       mc:Ignorable="d" 
       d:DesignHeight="350" d:DesignWidth="500"
-      Title="ExpenseIt-Home">
+      Title="ExpenseIt - Home">
 
     <Grid Margin="10 0 10 10">
         <Grid.Background>
-            <ImageBrush ImageSource="watermark.png"  />
+            <ImageBrush ImageSource="Properties/watermark.png"  />
         </Grid.Background>
 
         <Grid.ColumnDefinitions>
